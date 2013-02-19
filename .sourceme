@@ -1,0 +1,4 @@
+export PATH=$(pwd)/.gems/bin:$PATH
+mkdir -p $(pwd)/.gems
+export GEM_HOME=$(pwd)/.gems
+export GEM_PATH=$GEM_HOME

@@ -1,13 +1,13 @@
-markdown: rdiscount
+markdown: redcarpet
+redcarpet:
+  extensions: []
 pygments: true
 permalink: /posts/:title
 auto: true
-rdiscount:
-  extensions: [smart]
 
-name: Zach Holman
-url: http://zachholman.com
-description: A fantastic blog that is fantastic.
-twitter: holman
-github: holman
-gravatar_url: http://gravatar.com/avatar/6f63cde8b16b035280ca615f621a6c8c
+name: Pavel Repin
+url: http://pavel.repin.com
+description: Remarks
+twitter: pavelrepin
+github: paxan
+gravatar_url: http://www.gravatar.com/avatar/a0886310289840857f4763f2559b740c
