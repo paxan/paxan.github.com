@@ -1,0 +1,8 @@
+---
+layout: post
+title: A Common Crawl Experiment
+category: posts
+---
+
+I gathered up [the stuff I'd learned](https://github.com/paxan/ccooo) about
+writing Cascalog queries against Common Crawl corpus.
